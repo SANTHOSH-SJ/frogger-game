@@ -19,3 +19,5 @@ Once the player collides with an enemy, looses one life and the player moves bac
 4. Loose a life when colliding with an enemy
 5. After loosing the 3rd life the game is over!
 
+
+![Game Screenshot](images/game-GUI.png)
