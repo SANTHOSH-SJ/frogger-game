@@ -1,3 +1,9 @@
+/*  App.js
+    This file contains the code that implements the Player and the Enemy classes
+    defining the update(), render(), reset(), handleInput() methods, using
+    Object-Oriented Java Script.
+*/
+
 // Game configuration parameters
 var config = {
     maxCanvasX: 505, // maximum width of the canvas
